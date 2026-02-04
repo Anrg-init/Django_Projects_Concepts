@@ -2,7 +2,7 @@
 
 This repository contains core Django concepts along with their **direct, practical implementations**.
 
-It covers fundamental Django topics such as:
+It covers Django topics such as:
 - MVT (Model–View–Template) architecture
 - Forms and ModelForms
 - Authentication and authorization
